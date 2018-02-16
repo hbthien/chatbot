@@ -2,4 +2,9 @@
 .pydevproject
 .settings/
 __pycache__/
-	
+.ipynb_checkpoints/
+*.db
+*.sqlite3
+training.data
+tflearn_logs/
+models/
